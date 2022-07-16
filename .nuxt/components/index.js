@@ -1,193 +1,193 @@
-export { default as AboutAgency } from '../..\\components\\AboutAgency.vue'
-export { default as AboutAuthenticStudio } from '../..\\components\\AboutAuthenticStudio.vue'
-export { default as AboutBreadcrumb } from '../..\\components\\AboutBreadcrumb.vue'
-export { default as AboutBreadcrumbFour } from '../..\\components\\AboutBreadcrumbFour.vue'
-export { default as AboutBreadcrumbThree } from '../..\\components\\AboutBreadcrumbThree.vue'
-export { default as AboutSkill } from '../..\\components\\AboutSkill.vue'
-export { default as AccordionStyleOne } from '../..\\components\\AccordionStyleOne.vue'
-export { default as AccordionStyleTwo } from '../..\\components\\AccordionStyleTwo.vue'
-export { default as AgencyCounterup } from '../..\\components\\AgencyCounterup.vue'
-export { default as AlbumList } from '../..\\components\\AlbumList.vue'
-export { default as BestService } from '../..\\components\\BestService.vue'
-export { default as BlogPost } from '../..\\components\\BlogPost.vue'
-export { default as BlogPostFour } from '../..\\components\\BlogPostFour.vue'
-export { default as BlogPostThree } from '../..\\components\\BlogPostThree.vue'
-export { default as BlogPostTwo } from '../..\\components\\BlogPostTwo.vue'
-export { default as BlogRestaurant } from '../..\\components\\BlogRestaurant.vue'
-export { default as BlogSidebar } from '../..\\components\\BlogSidebar.vue'
-export { default as BrandLogoCarousel } from '../..\\components\\BrandLogoCarousel.vue'
-export { default as BrandLogoCarouselCustom } from '../..\\components\\BrandLogoCarouselCustom.vue'
-export { default as BrandLogoCarouselWithNavigation } from '../..\\components\\BrandLogoCarouselWithNavigation.vue'
-export { default as BrandLogoStyleOne } from '../..\\components\\BrandLogoStyleOne.vue'
-export { default as BrandLogoWithoutCarousel } from '../..\\components\\BrandLogoWithoutCarousel.vue'
-export { default as Breadcrumb } from '../..\\components\\Breadcrumb.vue'
-export { default as CallToAction } from '../..\\components\\CallToAction.vue'
-export { default as CareerItem } from '../..\\components\\CareerItem.vue'
-export { default as ContactForm } from '../..\\components\\ContactForm.vue'
-export { default as ContactUsBreadcrumb } from '../..\\components\\ContactUsBreadcrumb.vue'
-export { default as ContactUsOne } from '../..\\components\\ContactUsOne.vue'
-export { default as ContactUsThree } from '../..\\components\\ContactUsThree.vue'
-export { default as ContactUsTwo } from '../..\\components\\ContactUsTwo.vue'
-export { default as CurveShape } from '../..\\components\\CurveShape.vue'
-export { default as EffectiveSolution } from '../..\\components\\EffectiveSolution.vue'
-export { default as EssentialCaseStudy } from '../..\\components\\EssentialCaseStudy.vue'
-export { default as EssentialIconBox } from '../..\\components\\EssentialIconBox.vue'
-export { default as EssentialService } from '../..\\components\\EssentialService.vue'
-export { default as EssentialSkillProgress } from '../..\\components\\EssentialSkillProgress.vue'
-export { default as EssentialTestimonial } from '../..\\components\\EssentialTestimonial.vue'
-export { default as FeaturedProjects } from '../..\\components\\FeaturedProjects.vue'
-export { default as FeatureItemStyleOne } from '../..\\components\\FeatureItemStyleOne.vue'
-export { default as Firefly } from '../..\\components\\Firefly.vue'
-export { default as FlexibleSlider } from '../..\\components\\FlexibleSlider.vue'
-export { default as FlexibleSliderFive } from '../..\\components\\FlexibleSliderFive.vue'
-export { default as FlexibleSliderFour } from '../..\\components\\FlexibleSliderFour.vue'
-export { default as FlexibleSliderThree } from '../..\\components\\FlexibleSliderThree.vue'
-export { default as FlexibleSliderTwo } from '../..\\components\\FlexibleSliderTwo.vue'
-export { default as Footer } from '../..\\components\\Footer.vue'
-export { default as FooterAgency } from '../..\\components\\FooterAgency.vue'
-export { default as FooterStyleFour } from '../..\\components\\FooterStyleFour.vue'
-export { default as FooterStyleThree } from '../..\\components\\FooterStyleThree.vue'
-export { default as FooterTwo } from '../..\\components\\FooterTwo.vue'
-export { default as GoogleMap } from '../..\\components\\GoogleMap.vue'
-export { default as GradationOne } from '../..\\components\\GradationOne.vue'
-export { default as Header } from '../..\\components\\Header.vue'
-export { default as HeaderAbout } from '../..\\components\\HeaderAbout.vue'
-export { default as HeaderBlack } from '../..\\components\\HeaderBlack.vue'
-export { default as HeaderBlackTransparentWithSocial } from '../..\\components\\HeaderBlackTransparentWithSocial.vue'
-export { default as HeaderElement } from '../..\\components\\HeaderElement.vue'
-export { default as HeaderForOffCanvas } from '../..\\components\\HeaderForOffCanvas.vue'
-export { default as HeaderForOffCanvasBlack } from '../..\\components\\HeaderForOffCanvasBlack.vue'
-export { default as HeaderOnepage } from '../..\\components\\HeaderOnepage.vue'
-export { default as HeaderPortfolioSlider } from '../..\\components\\HeaderPortfolioSlider.vue'
-export { default as HeaderTransparentWithSocial } from '../..\\components\\HeaderTransparentWithSocial.vue'
-export { default as HeaderVerticalOffcanvas } from '../..\\components\\HeaderVerticalOffcanvas.vue'
-export { default as HeaderVerticalRestaurant } from '../..\\components\\HeaderVerticalRestaurant.vue'
-export { default as HeaderVerticle } from '../..\\components\\HeaderVerticle.vue'
-export { default as HeroAgency } from '../..\\components\\HeroAgency.vue'
-export { default as HeroAuthenticStudio } from '../..\\components\\HeroAuthenticStudio.vue'
-export { default as HeroBusiness } from '../..\\components\\HeroBusiness.vue'
-export { default as HeroDesignStudio } from '../..\\components\\HeroDesignStudio.vue'
-export { default as HeroDigitalAgency } from '../..\\components\\HeroDigitalAgency.vue'
-export { default as HeroEssential } from '../..\\components\\HeroEssential.vue'
-export { default as HeroFullscreen } from '../..\\components\\HeroFullscreen.vue'
-export { default as HeroIndieMusician } from '../..\\components\\HeroIndieMusician.vue'
-export { default as HeroLanding } from '../..\\components\\HeroLanding.vue'
-export { default as HeroMinimalAgency } from '../..\\components\\HeroMinimalAgency.vue'
-export { default as HeroOnepage } from '../..\\components\\HeroOnepage.vue'
-export { default as HeroPhotoSliderGallery } from '../..\\components\\HeroPhotoSliderGallery.vue'
-export { default as HeroPortfolioSlide } from '../..\\components\\HeroPortfolioSlide.vue'
-export { default as HeroProductLanding } from '../..\\components\\HeroProductLanding.vue'
-export { default as HeroRestaurant } from '../..\\components\\HeroRestaurant.vue'
-export { default as HeroService } from '../..\\components\\HeroService.vue'
-export { default as HeroStartUp } from '../..\\components\\HeroStartUp.vue'
-export { default as HeroVertical } from '../..\\components\\HeroVertical.vue'
-export { default as IconBoxItemOne } from '../..\\components\\IconBoxItemOne.vue'
-export { default as InstagramPost } from '../..\\components\\InstagramPost.vue'
-export { default as MinimalMetroGrid } from '../..\\components\\MinimalMetroGrid.vue'
-export { default as MobileNavigation } from '../..\\components\\MobileNavigation.vue'
-export { default as MotivationalArchive } from '../..\\components\\MotivationalArchive.vue'
-export { default as MusicianBlog } from '../..\\components\\MusicianBlog.vue'
-export { default as MusicianCountdown } from '../..\\components\\MusicianCountdown.vue'
-export { default as MusicianCounterup } from '../..\\components\\MusicianCounterup.vue'
-export { default as MusicianGallery } from '../..\\components\\MusicianGallery.vue'
-export { default as MusicianIconBox } from '../..\\components\\MusicianIconBox.vue'
-export { default as MusicianMixTapes } from '../..\\components\\MusicianMixTapes.vue'
-export { default as MusicianPortfolioGallery } from '../..\\components\\MusicianPortfolioGallery.vue'
-export { default as Navigation } from '../..\\components\\Navigation.vue'
-export { default as NewsletterCta } from '../..\\components\\NewsletterCta.vue'
-export { default as OffcanvasMenu } from '../..\\components\\OffcanvasMenu.vue'
-export { default as OffCanvasMobileMenu } from '../..\\components\\OffCanvasMobileMenu.vue'
-export { default as OnepageTeammember } from '../..\\components\\OnepageTeammember.vue'
-export { default as PortfolioItemCaptionBottom } from '../..\\components\\PortfolioItemCaptionBottom.vue'
-export { default as PortfolioItemCenterCaption } from '../..\\components\\PortfolioItemCenterCaption.vue'
-export { default as PricingItemStyleOne } from '../..\\components\\PricingItemStyleOne.vue'
-export { default as PricingItemStyleTwo } from '../..\\components\\PricingItemStyleTwo.vue'
-export { default as ProductTab } from '../..\\components\\ProductTab.vue'
-export { default as SearchPopup } from '../..\\components\\SearchPopup.vue'
-export { default as ServiceAgency } from '../..\\components\\ServiceAgency.vue'
-export { default as ServiceClassicBreadcrumb } from '../..\\components\\ServiceClassicBreadcrumb.vue'
-export { default as ServiceItemOne } from '../..\\components\\ServiceItemOne.vue'
-export { default as ServiceItemOneWithoutButton } from '../..\\components\\ServiceItemOneWithoutButton.vue'
-export { default as ServiceItemStyleTwo } from '../..\\components\\ServiceItemStyleTwo.vue'
-export { default as ServiceModern } from '../..\\components\\ServiceModern.vue'
-export { default as ServiceModernBreadcrumb } from '../..\\components\\ServiceModernBreadcrumb.vue'
-export { default as TabOne } from '../..\\components\\TabOne.vue'
-export { default as TabVertical } from '../..\\components\\TabVertical.vue'
-export { default as TeamCarouselFull } from '../..\\components\\TeamCarouselFull.vue'
-export { default as TeamMemberOne } from '../..\\components\\TeamMemberOne.vue'
-export { default as TeamMemberThree } from '../..\\components\\TeamMemberThree.vue'
-export { default as TeamMemberTwo } from '../..\\components\\TeamMemberTwo.vue'
-export { default as TestimonialItem } from '../..\\components\\TestimonialItem.vue'
-export { default as TestimonialSix } from '../..\\components\\TestimonialSix.vue'
-export { default as VideoOne } from '../..\\components\\VideoOne.vue'
-export { default as VideoService } from '../..\\components\\VideoService.vue'
-export { default as WhatWeDo } from '../..\\components\\WhatWeDo.vue'
-export { default as WhatWeDoTwo } from '../..\\components\\WhatWeDoTwo.vue'
-export { default as AboutServiceItemOneWithoutButton } from '../..\\components\\about\\ServiceItemOneWithoutButton.vue'
-export { default as AboutServiceTwo } from '../..\\components\\about\\ServiceTwo.vue'
-export { default as AboutWhatWeDoThree } from '../..\\components\\about\\WhatWeDoThree.vue'
-export { default as ContactMobileNavigation } from '../..\\components\\contact\\MobileNavigation.vue'
-export { default as ContactNavigation } from '../..\\components\\contact\\Navigation.vue'
-export { default as ContactOffcanvasMenu } from '../..\\components\\contact\\OffcanvasMenu.vue'
-export { default as ContactOffCanvasMobileMenu } from '../..\\components\\contact\\OffCanvasMobileMenu.vue'
-export { default as EventsExpandableImage } from '../..\\components\\events\\ExpandableImage.vue'
-export { default as EventsHeaderVerticle } from '../..\\components\\events\\HeaderVerticle.vue'
-export { default as EventsHeroFullscreen } from '../..\\components\\events\\HeroFullscreen.vue'
-export { default as EventsMobileNavigation } from '../..\\components\\events\\MobileNavigation.vue'
-export { default as EventsNavigation } from '../..\\components\\events\\Navigation.vue'
-export { default as EventsOffCanvasMobileMenu } from '../..\\components\\events\\OffCanvasMobileMenu.vue'
-export { default as LandingContactUsThree } from '../..\\components\\landing\\ContactUsThree.vue'
-export { default as LandingCurveShape } from '../..\\components\\landing\\CurveShape.vue'
-export { default as LandingEssentialService } from '../..\\components\\landing\\EssentialService.vue'
-export { default as LandingEssentialTestimonial1 } from '../..\\components\\landing\\EssentialTestimonial1.vue'
-export { default as LandingEssentialTestimonial2 } from '../..\\components\\landing\\EssentialTestimonial2.vue'
-export { default as LandingEventsItemCaptionCenter } from '../..\\components\\landing\\EventsItemCaptionCenter.vue'
-export { default as LandingFlexibleSliderFour } from '../..\\components\\landing\\FlexibleSliderFour.vue'
-export { default as LandingFooterTwo } from '../..\\components\\landing\\FooterTwo.vue'
-export { default as LandingHeaderForOffCanvas } from '../..\\components\\landing\\HeaderForOffCanvas.vue'
-export { default as LandingHeroService } from '../..\\components\\landing\\HeroService.vue'
-export { default as LandingMobileNavigation } from '../..\\components\\landing\\MobileNavigation.vue'
-export { default as LandingNavigation } from '../..\\components\\landing\\Navigation.vue'
-export { default as LandingOffcanvasMenu } from '../..\\components\\landing\\OffcanvasMenu.vue'
-export { default as LandingOffCanvasMobileMenu } from '../..\\components\\landing\\OffCanvasMobileMenu.vue'
-export { default as LandingPortfolioItemCenterCaption } from '../..\\components\\landing\\PortfolioItemCenterCaption.vue'
-export { default as LandingPortfolioItemFilter } from '../..\\components\\landing\\PortfolioItemFilter.vue'
-export { default as LandingServiceCarousel } from '../..\\components\\landing\\ServiceCarousel.vue'
-export { default as SectionsAccordionOne } from '../..\\components\\sections\\AccordionOne.vue'
-export { default as SectionsBlogOne } from '../..\\components\\sections\\BlogOne.vue'
-export { default as SectionsBlogThree } from '../..\\components\\sections\\BlogThree.vue'
-export { default as SectionsBlogTwo } from '../..\\components\\sections\\BlogTwo.vue'
-export { default as SectionsCarouselWithCaptionOne } from '../..\\components\\sections\\CarouselWithCaptionOne.vue'
-export { default as SectionsCarouselWithCaptionTwo } from '../..\\components\\sections\\CarouselWithCaptionTwo.vue'
-export { default as SectionsContactModern } from '../..\\components\\sections\\ContactModern.vue'
-export { default as SectionsCounterUpOne } from '../..\\components\\sections\\CounterUpOne.vue'
-export { default as SectionsCounterUpTwo } from '../..\\components\\sections\\CounterUpTwo.vue'
-export { default as SectionsFeaturesOne } from '../..\\components\\sections\\FeaturesOne.vue'
-export { default as SectionsFeatureStartUp } from '../..\\components\\sections\\FeatureStartUp.vue'
-export { default as SectionsOurServiceOne } from '../..\\components\\sections\\OurServiceOne.vue'
-export { default as SectionsPortfolioItemFilter } from '../..\\components\\sections\\PortfolioItemFilter.vue'
-export { default as SectionsPortfolioOne } from '../..\\components\\sections\\PortfolioOne.vue'
-export { default as SectionsPortfolioTwo } from '../..\\components\\sections\\PortfolioTwo.vue'
-export { default as SectionsPricingOne } from '../..\\components\\sections\\PricingOne.vue'
-export { default as SectionsServiceCarousel } from '../..\\components\\sections\\ServiceCarousel.vue'
-export { default as SectionsServiceIconBoxOne } from '../..\\components\\sections\\ServiceIconBoxOne.vue'
-export { default as SectionsServiceIconBoxTwo } from '../..\\components\\sections\\ServiceIconBoxTwo.vue'
-export { default as SectionsServiceIconBoxWithTitle } from '../..\\components\\sections\\ServiceIconBoxWithTitle.vue'
-export { default as SectionsServiceIconBoxWithTitleStleTwo } from '../..\\components\\sections\\ServiceIconBoxWithTitleStleTwo.vue'
-export { default as SectionsServiceOne } from '../..\\components\\sections\\ServiceOne.vue'
-export { default as SectionsServiceTwo } from '../..\\components\\sections\\ServiceTwo.vue'
-export { default as SectionsStartUpStratagy } from '../..\\components\\sections\\StartUpStratagy.vue'
-export { default as SectionsTeamFour } from '../..\\components\\sections\\TeamFour.vue'
-export { default as SectionsTeamOne } from '../..\\components\\sections\\TeamOne.vue'
-export { default as SectionsTeamThree } from '../..\\components\\sections\\TeamThree.vue'
-export { default as SectionsTeamTwo } from '../..\\components\\sections\\TeamTwo.vue'
-export { default as SectionsTestimonialFive } from '../..\\components\\sections\\TestimonialFive.vue'
-export { default as SectionsTestimonialFour } from '../..\\components\\sections\\TestimonialFour.vue'
-export { default as SectionsTestimonialOne } from '../..\\components\\sections\\TestimonialOne.vue'
-export { default as SectionsTestimonialThree } from '../..\\components\\sections\\TestimonialThree.vue'
-export { default as SectionsTestimonialTwo } from '../..\\components\\sections\\TestimonialTwo.vue'
-export { default as SectionsTestimonialWithoutCarousel } from '../..\\components\\sections\\TestimonialWithoutCarousel.vue'
-export { default as SectionsWhatWeDoThree } from '../..\\components\\sections\\WhatWeDoThree.vue'
+export const AboutAgency = () => import('../..\\components\\AboutAgency.vue' /* webpackChunkName: "components/about-agency" */).then(c => wrapFunctional(c.default || c))
+export const AboutAuthenticStudio = () => import('../..\\components\\AboutAuthenticStudio.vue' /* webpackChunkName: "components/about-authentic-studio" */).then(c => wrapFunctional(c.default || c))
+export const AboutBreadcrumb = () => import('../..\\components\\AboutBreadcrumb.vue' /* webpackChunkName: "components/about-breadcrumb" */).then(c => wrapFunctional(c.default || c))
+export const AboutBreadcrumbFour = () => import('../..\\components\\AboutBreadcrumbFour.vue' /* webpackChunkName: "components/about-breadcrumb-four" */).then(c => wrapFunctional(c.default || c))
+export const AboutBreadcrumbThree = () => import('../..\\components\\AboutBreadcrumbThree.vue' /* webpackChunkName: "components/about-breadcrumb-three" */).then(c => wrapFunctional(c.default || c))
+export const AboutSkill = () => import('../..\\components\\AboutSkill.vue' /* webpackChunkName: "components/about-skill" */).then(c => wrapFunctional(c.default || c))
+export const AccordionStyleOne = () => import('../..\\components\\AccordionStyleOne.vue' /* webpackChunkName: "components/accordion-style-one" */).then(c => wrapFunctional(c.default || c))
+export const AccordionStyleTwo = () => import('../..\\components\\AccordionStyleTwo.vue' /* webpackChunkName: "components/accordion-style-two" */).then(c => wrapFunctional(c.default || c))
+export const AgencyCounterup = () => import('../..\\components\\AgencyCounterup.vue' /* webpackChunkName: "components/agency-counterup" */).then(c => wrapFunctional(c.default || c))
+export const AlbumList = () => import('../..\\components\\AlbumList.vue' /* webpackChunkName: "components/album-list" */).then(c => wrapFunctional(c.default || c))
+export const BestService = () => import('../..\\components\\BestService.vue' /* webpackChunkName: "components/best-service" */).then(c => wrapFunctional(c.default || c))
+export const BlogPost = () => import('../..\\components\\BlogPost.vue' /* webpackChunkName: "components/blog-post" */).then(c => wrapFunctional(c.default || c))
+export const BlogPostFour = () => import('../..\\components\\BlogPostFour.vue' /* webpackChunkName: "components/blog-post-four" */).then(c => wrapFunctional(c.default || c))
+export const BlogPostThree = () => import('../..\\components\\BlogPostThree.vue' /* webpackChunkName: "components/blog-post-three" */).then(c => wrapFunctional(c.default || c))
+export const BlogPostTwo = () => import('../..\\components\\BlogPostTwo.vue' /* webpackChunkName: "components/blog-post-two" */).then(c => wrapFunctional(c.default || c))
+export const BlogRestaurant = () => import('../..\\components\\BlogRestaurant.vue' /* webpackChunkName: "components/blog-restaurant" */).then(c => wrapFunctional(c.default || c))
+export const BlogSidebar = () => import('../..\\components\\BlogSidebar.vue' /* webpackChunkName: "components/blog-sidebar" */).then(c => wrapFunctional(c.default || c))
+export const BrandLogoCarousel = () => import('../..\\components\\BrandLogoCarousel.vue' /* webpackChunkName: "components/brand-logo-carousel" */).then(c => wrapFunctional(c.default || c))
+export const BrandLogoCarouselCustom = () => import('../..\\components\\BrandLogoCarouselCustom.vue' /* webpackChunkName: "components/brand-logo-carousel-custom" */).then(c => wrapFunctional(c.default || c))
+export const BrandLogoCarouselWithNavigation = () => import('../..\\components\\BrandLogoCarouselWithNavigation.vue' /* webpackChunkName: "components/brand-logo-carousel-with-navigation" */).then(c => wrapFunctional(c.default || c))
+export const BrandLogoStyleOne = () => import('../..\\components\\BrandLogoStyleOne.vue' /* webpackChunkName: "components/brand-logo-style-one" */).then(c => wrapFunctional(c.default || c))
+export const BrandLogoWithoutCarousel = () => import('../..\\components\\BrandLogoWithoutCarousel.vue' /* webpackChunkName: "components/brand-logo-without-carousel" */).then(c => wrapFunctional(c.default || c))
+export const Breadcrumb = () => import('../..\\components\\Breadcrumb.vue' /* webpackChunkName: "components/breadcrumb" */).then(c => wrapFunctional(c.default || c))
+export const CallToAction = () => import('../..\\components\\CallToAction.vue' /* webpackChunkName: "components/call-to-action" */).then(c => wrapFunctional(c.default || c))
+export const CareerItem = () => import('../..\\components\\CareerItem.vue' /* webpackChunkName: "components/career-item" */).then(c => wrapFunctional(c.default || c))
+export const ContactForm = () => import('../..\\components\\ContactForm.vue' /* webpackChunkName: "components/contact-form" */).then(c => wrapFunctional(c.default || c))
+export const ContactUsBreadcrumb = () => import('../..\\components\\ContactUsBreadcrumb.vue' /* webpackChunkName: "components/contact-us-breadcrumb" */).then(c => wrapFunctional(c.default || c))
+export const ContactUsOne = () => import('../..\\components\\ContactUsOne.vue' /* webpackChunkName: "components/contact-us-one" */).then(c => wrapFunctional(c.default || c))
+export const ContactUsThree = () => import('../..\\components\\ContactUsThree.vue' /* webpackChunkName: "components/contact-us-three" */).then(c => wrapFunctional(c.default || c))
+export const ContactUsTwo = () => import('../..\\components\\ContactUsTwo.vue' /* webpackChunkName: "components/contact-us-two" */).then(c => wrapFunctional(c.default || c))
+export const CurveShape = () => import('../..\\components\\CurveShape.vue' /* webpackChunkName: "components/curve-shape" */).then(c => wrapFunctional(c.default || c))
+export const EffectiveSolution = () => import('../..\\components\\EffectiveSolution.vue' /* webpackChunkName: "components/effective-solution" */).then(c => wrapFunctional(c.default || c))
+export const EssentialCaseStudy = () => import('../..\\components\\EssentialCaseStudy.vue' /* webpackChunkName: "components/essential-case-study" */).then(c => wrapFunctional(c.default || c))
+export const EssentialIconBox = () => import('../..\\components\\EssentialIconBox.vue' /* webpackChunkName: "components/essential-icon-box" */).then(c => wrapFunctional(c.default || c))
+export const EssentialService = () => import('../..\\components\\EssentialService.vue' /* webpackChunkName: "components/essential-service" */).then(c => wrapFunctional(c.default || c))
+export const EssentialSkillProgress = () => import('../..\\components\\EssentialSkillProgress.vue' /* webpackChunkName: "components/essential-skill-progress" */).then(c => wrapFunctional(c.default || c))
+export const EssentialTestimonial = () => import('../..\\components\\EssentialTestimonial.vue' /* webpackChunkName: "components/essential-testimonial" */).then(c => wrapFunctional(c.default || c))
+export const FeaturedProjects = () => import('../..\\components\\FeaturedProjects.vue' /* webpackChunkName: "components/featured-projects" */).then(c => wrapFunctional(c.default || c))
+export const FeatureItemStyleOne = () => import('../..\\components\\FeatureItemStyleOne.vue' /* webpackChunkName: "components/feature-item-style-one" */).then(c => wrapFunctional(c.default || c))
+export const Firefly = () => import('../..\\components\\Firefly.vue' /* webpackChunkName: "components/firefly" */).then(c => wrapFunctional(c.default || c))
+export const FlexibleSlider = () => import('../..\\components\\FlexibleSlider.vue' /* webpackChunkName: "components/flexible-slider" */).then(c => wrapFunctional(c.default || c))
+export const FlexibleSliderFive = () => import('../..\\components\\FlexibleSliderFive.vue' /* webpackChunkName: "components/flexible-slider-five" */).then(c => wrapFunctional(c.default || c))
+export const FlexibleSliderFour = () => import('../..\\components\\FlexibleSliderFour.vue' /* webpackChunkName: "components/flexible-slider-four" */).then(c => wrapFunctional(c.default || c))
+export const FlexibleSliderThree = () => import('../..\\components\\FlexibleSliderThree.vue' /* webpackChunkName: "components/flexible-slider-three" */).then(c => wrapFunctional(c.default || c))
+export const FlexibleSliderTwo = () => import('../..\\components\\FlexibleSliderTwo.vue' /* webpackChunkName: "components/flexible-slider-two" */).then(c => wrapFunctional(c.default || c))
+export const Footer = () => import('../..\\components\\Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
+export const FooterAgency = () => import('../..\\components\\FooterAgency.vue' /* webpackChunkName: "components/footer-agency" */).then(c => wrapFunctional(c.default || c))
+export const FooterStyleFour = () => import('../..\\components\\FooterStyleFour.vue' /* webpackChunkName: "components/footer-style-four" */).then(c => wrapFunctional(c.default || c))
+export const FooterStyleThree = () => import('../..\\components\\FooterStyleThree.vue' /* webpackChunkName: "components/footer-style-three" */).then(c => wrapFunctional(c.default || c))
+export const FooterTwo = () => import('../..\\components\\FooterTwo.vue' /* webpackChunkName: "components/footer-two" */).then(c => wrapFunctional(c.default || c))
+export const GoogleMap = () => import('../..\\components\\GoogleMap.vue' /* webpackChunkName: "components/google-map" */).then(c => wrapFunctional(c.default || c))
+export const GradationOne = () => import('../..\\components\\GradationOne.vue' /* webpackChunkName: "components/gradation-one" */).then(c => wrapFunctional(c.default || c))
+export const Header = () => import('../..\\components\\Header.vue' /* webpackChunkName: "components/header" */).then(c => wrapFunctional(c.default || c))
+export const HeaderAbout = () => import('../..\\components\\HeaderAbout.vue' /* webpackChunkName: "components/header-about" */).then(c => wrapFunctional(c.default || c))
+export const HeaderBlack = () => import('../..\\components\\HeaderBlack.vue' /* webpackChunkName: "components/header-black" */).then(c => wrapFunctional(c.default || c))
+export const HeaderBlackTransparentWithSocial = () => import('../..\\components\\HeaderBlackTransparentWithSocial.vue' /* webpackChunkName: "components/header-black-transparent-with-social" */).then(c => wrapFunctional(c.default || c))
+export const HeaderElement = () => import('../..\\components\\HeaderElement.vue' /* webpackChunkName: "components/header-element" */).then(c => wrapFunctional(c.default || c))
+export const HeaderForOffCanvas = () => import('../..\\components\\HeaderForOffCanvas.vue' /* webpackChunkName: "components/header-for-off-canvas" */).then(c => wrapFunctional(c.default || c))
+export const HeaderForOffCanvasBlack = () => import('../..\\components\\HeaderForOffCanvasBlack.vue' /* webpackChunkName: "components/header-for-off-canvas-black" */).then(c => wrapFunctional(c.default || c))
+export const HeaderOnepage = () => import('../..\\components\\HeaderOnepage.vue' /* webpackChunkName: "components/header-onepage" */).then(c => wrapFunctional(c.default || c))
+export const HeaderPortfolioSlider = () => import('../..\\components\\HeaderPortfolioSlider.vue' /* webpackChunkName: "components/header-portfolio-slider" */).then(c => wrapFunctional(c.default || c))
+export const HeaderTransparentWithSocial = () => import('../..\\components\\HeaderTransparentWithSocial.vue' /* webpackChunkName: "components/header-transparent-with-social" */).then(c => wrapFunctional(c.default || c))
+export const HeaderVerticalOffcanvas = () => import('../..\\components\\HeaderVerticalOffcanvas.vue' /* webpackChunkName: "components/header-vertical-offcanvas" */).then(c => wrapFunctional(c.default || c))
+export const HeaderVerticalRestaurant = () => import('../..\\components\\HeaderVerticalRestaurant.vue' /* webpackChunkName: "components/header-vertical-restaurant" */).then(c => wrapFunctional(c.default || c))
+export const HeaderVerticle = () => import('../..\\components\\HeaderVerticle.vue' /* webpackChunkName: "components/header-verticle" */).then(c => wrapFunctional(c.default || c))
+export const HeroAgency = () => import('../..\\components\\HeroAgency.vue' /* webpackChunkName: "components/hero-agency" */).then(c => wrapFunctional(c.default || c))
+export const HeroAuthenticStudio = () => import('../..\\components\\HeroAuthenticStudio.vue' /* webpackChunkName: "components/hero-authentic-studio" */).then(c => wrapFunctional(c.default || c))
+export const HeroBusiness = () => import('../..\\components\\HeroBusiness.vue' /* webpackChunkName: "components/hero-business" */).then(c => wrapFunctional(c.default || c))
+export const HeroDesignStudio = () => import('../..\\components\\HeroDesignStudio.vue' /* webpackChunkName: "components/hero-design-studio" */).then(c => wrapFunctional(c.default || c))
+export const HeroDigitalAgency = () => import('../..\\components\\HeroDigitalAgency.vue' /* webpackChunkName: "components/hero-digital-agency" */).then(c => wrapFunctional(c.default || c))
+export const HeroEssential = () => import('../..\\components\\HeroEssential.vue' /* webpackChunkName: "components/hero-essential" */).then(c => wrapFunctional(c.default || c))
+export const HeroFullscreen = () => import('../..\\components\\HeroFullscreen.vue' /* webpackChunkName: "components/hero-fullscreen" */).then(c => wrapFunctional(c.default || c))
+export const HeroIndieMusician = () => import('../..\\components\\HeroIndieMusician.vue' /* webpackChunkName: "components/hero-indie-musician" */).then(c => wrapFunctional(c.default || c))
+export const HeroLanding = () => import('../..\\components\\HeroLanding.vue' /* webpackChunkName: "components/hero-landing" */).then(c => wrapFunctional(c.default || c))
+export const HeroMinimalAgency = () => import('../..\\components\\HeroMinimalAgency.vue' /* webpackChunkName: "components/hero-minimal-agency" */).then(c => wrapFunctional(c.default || c))
+export const HeroOnepage = () => import('../..\\components\\HeroOnepage.vue' /* webpackChunkName: "components/hero-onepage" */).then(c => wrapFunctional(c.default || c))
+export const HeroPhotoSliderGallery = () => import('../..\\components\\HeroPhotoSliderGallery.vue' /* webpackChunkName: "components/hero-photo-slider-gallery" */).then(c => wrapFunctional(c.default || c))
+export const HeroPortfolioSlide = () => import('../..\\components\\HeroPortfolioSlide.vue' /* webpackChunkName: "components/hero-portfolio-slide" */).then(c => wrapFunctional(c.default || c))
+export const HeroProductLanding = () => import('../..\\components\\HeroProductLanding.vue' /* webpackChunkName: "components/hero-product-landing" */).then(c => wrapFunctional(c.default || c))
+export const HeroRestaurant = () => import('../..\\components\\HeroRestaurant.vue' /* webpackChunkName: "components/hero-restaurant" */).then(c => wrapFunctional(c.default || c))
+export const HeroService = () => import('../..\\components\\HeroService.vue' /* webpackChunkName: "components/hero-service" */).then(c => wrapFunctional(c.default || c))
+export const HeroStartUp = () => import('../..\\components\\HeroStartUp.vue' /* webpackChunkName: "components/hero-start-up" */).then(c => wrapFunctional(c.default || c))
+export const HeroVertical = () => import('../..\\components\\HeroVertical.vue' /* webpackChunkName: "components/hero-vertical" */).then(c => wrapFunctional(c.default || c))
+export const IconBoxItemOne = () => import('../..\\components\\IconBoxItemOne.vue' /* webpackChunkName: "components/icon-box-item-one" */).then(c => wrapFunctional(c.default || c))
+export const InstagramPost = () => import('../..\\components\\InstagramPost.vue' /* webpackChunkName: "components/instagram-post" */).then(c => wrapFunctional(c.default || c))
+export const MinimalMetroGrid = () => import('../..\\components\\MinimalMetroGrid.vue' /* webpackChunkName: "components/minimal-metro-grid" */).then(c => wrapFunctional(c.default || c))
+export const MobileNavigation = () => import('../..\\components\\MobileNavigation.vue' /* webpackChunkName: "components/mobile-navigation" */).then(c => wrapFunctional(c.default || c))
+export const MotivationalArchive = () => import('../..\\components\\MotivationalArchive.vue' /* webpackChunkName: "components/motivational-archive" */).then(c => wrapFunctional(c.default || c))
+export const MusicianBlog = () => import('../..\\components\\MusicianBlog.vue' /* webpackChunkName: "components/musician-blog" */).then(c => wrapFunctional(c.default || c))
+export const MusicianCountdown = () => import('../..\\components\\MusicianCountdown.vue' /* webpackChunkName: "components/musician-countdown" */).then(c => wrapFunctional(c.default || c))
+export const MusicianCounterup = () => import('../..\\components\\MusicianCounterup.vue' /* webpackChunkName: "components/musician-counterup" */).then(c => wrapFunctional(c.default || c))
+export const MusicianGallery = () => import('../..\\components\\MusicianGallery.vue' /* webpackChunkName: "components/musician-gallery" */).then(c => wrapFunctional(c.default || c))
+export const MusicianIconBox = () => import('../..\\components\\MusicianIconBox.vue' /* webpackChunkName: "components/musician-icon-box" */).then(c => wrapFunctional(c.default || c))
+export const MusicianMixTapes = () => import('../..\\components\\MusicianMixTapes.vue' /* webpackChunkName: "components/musician-mix-tapes" */).then(c => wrapFunctional(c.default || c))
+export const MusicianPortfolioGallery = () => import('../..\\components\\MusicianPortfolioGallery.vue' /* webpackChunkName: "components/musician-portfolio-gallery" */).then(c => wrapFunctional(c.default || c))
+export const Navigation = () => import('../..\\components\\Navigation.vue' /* webpackChunkName: "components/navigation" */).then(c => wrapFunctional(c.default || c))
+export const NewsletterCta = () => import('../..\\components\\NewsletterCta.vue' /* webpackChunkName: "components/newsletter-cta" */).then(c => wrapFunctional(c.default || c))
+export const OffcanvasMenu = () => import('../..\\components\\OffcanvasMenu.vue' /* webpackChunkName: "components/offcanvas-menu" */).then(c => wrapFunctional(c.default || c))
+export const OffCanvasMobileMenu = () => import('../..\\components\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/off-canvas-mobile-menu" */).then(c => wrapFunctional(c.default || c))
+export const OnepageTeammember = () => import('../..\\components\\OnepageTeammember.vue' /* webpackChunkName: "components/onepage-teammember" */).then(c => wrapFunctional(c.default || c))
+export const PortfolioItemCaptionBottom = () => import('../..\\components\\PortfolioItemCaptionBottom.vue' /* webpackChunkName: "components/portfolio-item-caption-bottom" */).then(c => wrapFunctional(c.default || c))
+export const PortfolioItemCenterCaption = () => import('../..\\components\\PortfolioItemCenterCaption.vue' /* webpackChunkName: "components/portfolio-item-center-caption" */).then(c => wrapFunctional(c.default || c))
+export const PricingItemStyleOne = () => import('../..\\components\\PricingItemStyleOne.vue' /* webpackChunkName: "components/pricing-item-style-one" */).then(c => wrapFunctional(c.default || c))
+export const PricingItemStyleTwo = () => import('../..\\components\\PricingItemStyleTwo.vue' /* webpackChunkName: "components/pricing-item-style-two" */).then(c => wrapFunctional(c.default || c))
+export const ProductTab = () => import('../..\\components\\ProductTab.vue' /* webpackChunkName: "components/product-tab" */).then(c => wrapFunctional(c.default || c))
+export const SearchPopup = () => import('../..\\components\\SearchPopup.vue' /* webpackChunkName: "components/search-popup" */).then(c => wrapFunctional(c.default || c))
+export const ServiceAgency = () => import('../..\\components\\ServiceAgency.vue' /* webpackChunkName: "components/service-agency" */).then(c => wrapFunctional(c.default || c))
+export const ServiceClassicBreadcrumb = () => import('../..\\components\\ServiceClassicBreadcrumb.vue' /* webpackChunkName: "components/service-classic-breadcrumb" */).then(c => wrapFunctional(c.default || c))
+export const ServiceItemOne = () => import('../..\\components\\ServiceItemOne.vue' /* webpackChunkName: "components/service-item-one" */).then(c => wrapFunctional(c.default || c))
+export const ServiceItemOneWithoutButton = () => import('../..\\components\\ServiceItemOneWithoutButton.vue' /* webpackChunkName: "components/service-item-one-without-button" */).then(c => wrapFunctional(c.default || c))
+export const ServiceItemStyleTwo = () => import('../..\\components\\ServiceItemStyleTwo.vue' /* webpackChunkName: "components/service-item-style-two" */).then(c => wrapFunctional(c.default || c))
+export const ServiceModern = () => import('../..\\components\\ServiceModern.vue' /* webpackChunkName: "components/service-modern" */).then(c => wrapFunctional(c.default || c))
+export const ServiceModernBreadcrumb = () => import('../..\\components\\ServiceModernBreadcrumb.vue' /* webpackChunkName: "components/service-modern-breadcrumb" */).then(c => wrapFunctional(c.default || c))
+export const TabOne = () => import('../..\\components\\TabOne.vue' /* webpackChunkName: "components/tab-one" */).then(c => wrapFunctional(c.default || c))
+export const TabVertical = () => import('../..\\components\\TabVertical.vue' /* webpackChunkName: "components/tab-vertical" */).then(c => wrapFunctional(c.default || c))
+export const TeamCarouselFull = () => import('../..\\components\\TeamCarouselFull.vue' /* webpackChunkName: "components/team-carousel-full" */).then(c => wrapFunctional(c.default || c))
+export const TeamMemberOne = () => import('../..\\components\\TeamMemberOne.vue' /* webpackChunkName: "components/team-member-one" */).then(c => wrapFunctional(c.default || c))
+export const TeamMemberThree = () => import('../..\\components\\TeamMemberThree.vue' /* webpackChunkName: "components/team-member-three" */).then(c => wrapFunctional(c.default || c))
+export const TeamMemberTwo = () => import('../..\\components\\TeamMemberTwo.vue' /* webpackChunkName: "components/team-member-two" */).then(c => wrapFunctional(c.default || c))
+export const TestimonialItem = () => import('../..\\components\\TestimonialItem.vue' /* webpackChunkName: "components/testimonial-item" */).then(c => wrapFunctional(c.default || c))
+export const TestimonialSix = () => import('../..\\components\\TestimonialSix.vue' /* webpackChunkName: "components/testimonial-six" */).then(c => wrapFunctional(c.default || c))
+export const VideoOne = () => import('../..\\components\\VideoOne.vue' /* webpackChunkName: "components/video-one" */).then(c => wrapFunctional(c.default || c))
+export const VideoService = () => import('../..\\components\\VideoService.vue' /* webpackChunkName: "components/video-service" */).then(c => wrapFunctional(c.default || c))
+export const WhatWeDo = () => import('../..\\components\\WhatWeDo.vue' /* webpackChunkName: "components/what-we-do" */).then(c => wrapFunctional(c.default || c))
+export const WhatWeDoTwo = () => import('../..\\components\\WhatWeDoTwo.vue' /* webpackChunkName: "components/what-we-do-two" */).then(c => wrapFunctional(c.default || c))
+export const AboutServiceItemOneWithoutButton = () => import('../..\\components\\about\\ServiceItemOneWithoutButton.vue' /* webpackChunkName: "components/about-service-item-one-without-button" */).then(c => wrapFunctional(c.default || c))
+export const AboutServiceTwo = () => import('../..\\components\\about\\ServiceTwo.vue' /* webpackChunkName: "components/about-service-two" */).then(c => wrapFunctional(c.default || c))
+export const AboutWhatWeDoThree = () => import('../..\\components\\about\\WhatWeDoThree.vue' /* webpackChunkName: "components/about-what-we-do-three" */).then(c => wrapFunctional(c.default || c))
+export const ContactMobileNavigation = () => import('../..\\components\\contact\\MobileNavigation.vue' /* webpackChunkName: "components/contact-mobile-navigation" */).then(c => wrapFunctional(c.default || c))
+export const ContactNavigation = () => import('../..\\components\\contact\\Navigation.vue' /* webpackChunkName: "components/contact-navigation" */).then(c => wrapFunctional(c.default || c))
+export const ContactOffcanvasMenu = () => import('../..\\components\\contact\\OffcanvasMenu.vue' /* webpackChunkName: "components/contact-offcanvas-menu" */).then(c => wrapFunctional(c.default || c))
+export const ContactOffCanvasMobileMenu = () => import('../..\\components\\contact\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/contact-off-canvas-mobile-menu" */).then(c => wrapFunctional(c.default || c))
+export const EventsExpandableImage = () => import('../..\\components\\events\\ExpandableImage.vue' /* webpackChunkName: "components/events-expandable-image" */).then(c => wrapFunctional(c.default || c))
+export const EventsHeaderVerticle = () => import('../..\\components\\events\\HeaderVerticle.vue' /* webpackChunkName: "components/events-header-verticle" */).then(c => wrapFunctional(c.default || c))
+export const EventsHeroFullscreen = () => import('../..\\components\\events\\HeroFullscreen.vue' /* webpackChunkName: "components/events-hero-fullscreen" */).then(c => wrapFunctional(c.default || c))
+export const EventsMobileNavigation = () => import('../..\\components\\events\\MobileNavigation.vue' /* webpackChunkName: "components/events-mobile-navigation" */).then(c => wrapFunctional(c.default || c))
+export const EventsNavigation = () => import('../..\\components\\events\\Navigation.vue' /* webpackChunkName: "components/events-navigation" */).then(c => wrapFunctional(c.default || c))
+export const EventsOffCanvasMobileMenu = () => import('../..\\components\\events\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/events-off-canvas-mobile-menu" */).then(c => wrapFunctional(c.default || c))
+export const LandingContactUsThree = () => import('../..\\components\\landing\\ContactUsThree.vue' /* webpackChunkName: "components/landing-contact-us-three" */).then(c => wrapFunctional(c.default || c))
+export const LandingCurveShape = () => import('../..\\components\\landing\\CurveShape.vue' /* webpackChunkName: "components/landing-curve-shape" */).then(c => wrapFunctional(c.default || c))
+export const LandingEssentialService = () => import('../..\\components\\landing\\EssentialService.vue' /* webpackChunkName: "components/landing-essential-service" */).then(c => wrapFunctional(c.default || c))
+export const LandingEssentialTestimonial1 = () => import('../..\\components\\landing\\EssentialTestimonial1.vue' /* webpackChunkName: "components/landing-essential-testimonial1" */).then(c => wrapFunctional(c.default || c))
+export const LandingEssentialTestimonial2 = () => import('../..\\components\\landing\\EssentialTestimonial2.vue' /* webpackChunkName: "components/landing-essential-testimonial2" */).then(c => wrapFunctional(c.default || c))
+export const LandingEventsItemCaptionCenter = () => import('../..\\components\\landing\\EventsItemCaptionCenter.vue' /* webpackChunkName: "components/landing-events-item-caption-center" */).then(c => wrapFunctional(c.default || c))
+export const LandingFlexibleSliderFour = () => import('../..\\components\\landing\\FlexibleSliderFour.vue' /* webpackChunkName: "components/landing-flexible-slider-four" */).then(c => wrapFunctional(c.default || c))
+export const LandingFooterTwo = () => import('../..\\components\\landing\\FooterTwo.vue' /* webpackChunkName: "components/landing-footer-two" */).then(c => wrapFunctional(c.default || c))
+export const LandingHeaderForOffCanvas = () => import('../..\\components\\landing\\HeaderForOffCanvas.vue' /* webpackChunkName: "components/landing-header-for-off-canvas" */).then(c => wrapFunctional(c.default || c))
+export const LandingHeroService = () => import('../..\\components\\landing\\HeroService.vue' /* webpackChunkName: "components/landing-hero-service" */).then(c => wrapFunctional(c.default || c))
+export const LandingMobileNavigation = () => import('../..\\components\\landing\\MobileNavigation.vue' /* webpackChunkName: "components/landing-mobile-navigation" */).then(c => wrapFunctional(c.default || c))
+export const LandingNavigation = () => import('../..\\components\\landing\\Navigation.vue' /* webpackChunkName: "components/landing-navigation" */).then(c => wrapFunctional(c.default || c))
+export const LandingOffcanvasMenu = () => import('../..\\components\\landing\\OffcanvasMenu.vue' /* webpackChunkName: "components/landing-offcanvas-menu" */).then(c => wrapFunctional(c.default || c))
+export const LandingOffCanvasMobileMenu = () => import('../..\\components\\landing\\OffCanvasMobileMenu.vue' /* webpackChunkName: "components/landing-off-canvas-mobile-menu" */).then(c => wrapFunctional(c.default || c))
+export const LandingPortfolioItemCenterCaption = () => import('../..\\components\\landing\\PortfolioItemCenterCaption.vue' /* webpackChunkName: "components/landing-portfolio-item-center-caption" */).then(c => wrapFunctional(c.default || c))
+export const LandingPortfolioItemFilter = () => import('../..\\components\\landing\\PortfolioItemFilter.vue' /* webpackChunkName: "components/landing-portfolio-item-filter" */).then(c => wrapFunctional(c.default || c))
+export const LandingServiceCarousel = () => import('../..\\components\\landing\\ServiceCarousel.vue' /* webpackChunkName: "components/landing-service-carousel" */).then(c => wrapFunctional(c.default || c))
+export const SectionsAccordionOne = () => import('../..\\components\\sections\\AccordionOne.vue' /* webpackChunkName: "components/sections-accordion-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsBlogOne = () => import('../..\\components\\sections\\BlogOne.vue' /* webpackChunkName: "components/sections-blog-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsBlogThree = () => import('../..\\components\\sections\\BlogThree.vue' /* webpackChunkName: "components/sections-blog-three" */).then(c => wrapFunctional(c.default || c))
+export const SectionsBlogTwo = () => import('../..\\components\\sections\\BlogTwo.vue' /* webpackChunkName: "components/sections-blog-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsCarouselWithCaptionOne = () => import('../..\\components\\sections\\CarouselWithCaptionOne.vue' /* webpackChunkName: "components/sections-carousel-with-caption-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsCarouselWithCaptionTwo = () => import('../..\\components\\sections\\CarouselWithCaptionTwo.vue' /* webpackChunkName: "components/sections-carousel-with-caption-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsContactModern = () => import('../..\\components\\sections\\ContactModern.vue' /* webpackChunkName: "components/sections-contact-modern" */).then(c => wrapFunctional(c.default || c))
+export const SectionsCounterUpOne = () => import('../..\\components\\sections\\CounterUpOne.vue' /* webpackChunkName: "components/sections-counter-up-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsCounterUpTwo = () => import('../..\\components\\sections\\CounterUpTwo.vue' /* webpackChunkName: "components/sections-counter-up-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsFeaturesOne = () => import('../..\\components\\sections\\FeaturesOne.vue' /* webpackChunkName: "components/sections-features-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsFeatureStartUp = () => import('../..\\components\\sections\\FeatureStartUp.vue' /* webpackChunkName: "components/sections-feature-start-up" */).then(c => wrapFunctional(c.default || c))
+export const SectionsOurServiceOne = () => import('../..\\components\\sections\\OurServiceOne.vue' /* webpackChunkName: "components/sections-our-service-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsPortfolioItemFilter = () => import('../..\\components\\sections\\PortfolioItemFilter.vue' /* webpackChunkName: "components/sections-portfolio-item-filter" */).then(c => wrapFunctional(c.default || c))
+export const SectionsPortfolioOne = () => import('../..\\components\\sections\\PortfolioOne.vue' /* webpackChunkName: "components/sections-portfolio-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsPortfolioTwo = () => import('../..\\components\\sections\\PortfolioTwo.vue' /* webpackChunkName: "components/sections-portfolio-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsPricingOne = () => import('../..\\components\\sections\\PricingOne.vue' /* webpackChunkName: "components/sections-pricing-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceCarousel = () => import('../..\\components\\sections\\ServiceCarousel.vue' /* webpackChunkName: "components/sections-service-carousel" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceIconBoxOne = () => import('../..\\components\\sections\\ServiceIconBoxOne.vue' /* webpackChunkName: "components/sections-service-icon-box-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceIconBoxTwo = () => import('../..\\components\\sections\\ServiceIconBoxTwo.vue' /* webpackChunkName: "components/sections-service-icon-box-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceIconBoxWithTitle = () => import('../..\\components\\sections\\ServiceIconBoxWithTitle.vue' /* webpackChunkName: "components/sections-service-icon-box-with-title" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceIconBoxWithTitleStleTwo = () => import('../..\\components\\sections\\ServiceIconBoxWithTitleStleTwo.vue' /* webpackChunkName: "components/sections-service-icon-box-with-title-stle-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceOne = () => import('../..\\components\\sections\\ServiceOne.vue' /* webpackChunkName: "components/sections-service-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsServiceTwo = () => import('../..\\components\\sections\\ServiceTwo.vue' /* webpackChunkName: "components/sections-service-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsStartUpStratagy = () => import('../..\\components\\sections\\StartUpStratagy.vue' /* webpackChunkName: "components/sections-start-up-stratagy" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTeamFour = () => import('../..\\components\\sections\\TeamFour.vue' /* webpackChunkName: "components/sections-team-four" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTeamOne = () => import('../..\\components\\sections\\TeamOne.vue' /* webpackChunkName: "components/sections-team-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTeamThree = () => import('../..\\components\\sections\\TeamThree.vue' /* webpackChunkName: "components/sections-team-three" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTeamTwo = () => import('../..\\components\\sections\\TeamTwo.vue' /* webpackChunkName: "components/sections-team-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialFive = () => import('../..\\components\\sections\\TestimonialFive.vue' /* webpackChunkName: "components/sections-testimonial-five" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialFour = () => import('../..\\components\\sections\\TestimonialFour.vue' /* webpackChunkName: "components/sections-testimonial-four" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialOne = () => import('../..\\components\\sections\\TestimonialOne.vue' /* webpackChunkName: "components/sections-testimonial-one" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialThree = () => import('../..\\components\\sections\\TestimonialThree.vue' /* webpackChunkName: "components/sections-testimonial-three" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialTwo = () => import('../..\\components\\sections\\TestimonialTwo.vue' /* webpackChunkName: "components/sections-testimonial-two" */).then(c => wrapFunctional(c.default || c))
+export const SectionsTestimonialWithoutCarousel = () => import('../..\\components\\sections\\TestimonialWithoutCarousel.vue' /* webpackChunkName: "components/sections-testimonial-without-carousel" */).then(c => wrapFunctional(c.default || c))
+export const SectionsWhatWeDoThree = () => import('../..\\components\\sections\\WhatWeDoThree.vue' /* webpackChunkName: "components/sections-what-we-do-three" */).then(c => wrapFunctional(c.default || c))
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

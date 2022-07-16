@@ -2,647 +2,647 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\about.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\about.vue",
     "chunkName": "pages/about",
-    "_name": "_64e31eb4"
+    "_name": "_49615888"
   },
   {
     "name": "about-us-01",
     "path": "/about-us-01",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\about-us-01.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\about-us-01.vue",
     "chunkName": "pages/about-us-01",
-    "_name": "_5c497c29"
+    "_name": "_b5591aea"
   },
   {
     "name": "about-us-02",
     "path": "/about-us-02",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\about-us-02.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\about-us-02.vue",
     "chunkName": "pages/about-us-02",
-    "_name": "_5c5793aa"
+    "_name": "_b53cebe8"
   },
   {
     "name": "about-us-03",
     "path": "/about-us-03",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\about-us-03.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\about-us-03.vue",
     "chunkName": "pages/about-us-03",
-    "_name": "_5c65ab2b"
+    "_name": "_b520bce6"
   },
   {
     "name": "career",
     "path": "/career",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\career.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\career.vue",
     "chunkName": "pages/career",
-    "_name": "_0bd2c235"
+    "_name": "_0a5cd693"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\contact.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact",
-    "_name": "_b39c990e"
+    "_name": "_78ea2adb"
   },
   {
     "name": "contact-us-modern",
     "path": "/contact-us-modern",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\contact-us-modern.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\contact-us-modern.vue",
     "chunkName": "pages/contact-us-modern",
-    "_name": "_86b69d4c"
+    "_name": "_4ffe5388"
   },
   {
     "name": "contact-us-with-map",
     "path": "/contact-us-with-map",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\contact-us-with-map.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\contact-us-with-map.vue",
     "chunkName": "pages/contact-us-with-map",
-    "_name": "_1931b650"
+    "_name": "_63cfaa9c"
   },
   {
     "name": "default",
     "path": "/default",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\default.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\default.vue",
     "chunkName": "pages/default",
-    "_name": "_ec9325cc"
+    "_name": "_5c6ee47c"
   },
   {
     "name": "events",
     "path": "/events",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\events.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\events.vue",
     "chunkName": "pages/events",
     "children": [
       {
         "name": "events-event-details",
         "path": "event-details",
-        "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\events\\\\event-details.vue",
+        "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\events\\\\event-details.vue",
         "chunkName": "pages/events/event-details",
-        "_name": "_f4ac0a22"
+        "_name": "_ca76425e"
       },
       {
         "name": "events-slug",
         "path": ":slug?",
-        "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\events\\\\_slug.vue",
+        "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\events\\\\_slug.vue",
         "chunkName": "pages/events/_slug",
-        "_name": "_0e7aa2ea"
+        "_name": "_3ce088cc"
       }
     ],
-    "_name": "_655b5360"
+    "_name": "_68472aa4"
   },
   {
     "name": "home-authentic-studio",
     "path": "/home-authentic-studio",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-authentic-studio.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-authentic-studio.vue",
     "chunkName": "pages/home-authentic-studio",
-    "_name": "_8b821c66"
+    "_name": "_614c54a2"
   },
   {
     "name": "home-blog-grid",
     "path": "/home-blog-grid",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-blog-grid.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-blog-grid.vue",
     "chunkName": "pages/home-blog-grid",
-    "_name": "_425e505a"
+    "_name": "_3e95b290"
   },
   {
     "name": "home-corona",
     "path": "/home-corona",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-corona.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-corona.vue",
     "chunkName": "pages/home-corona",
-    "_name": "_5bcce5a3"
+    "_name": "_b65247f6"
   },
   {
     "name": "home-creative-agency",
     "path": "/home-creative-agency",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-creative-agency.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-creative-agency.vue",
     "chunkName": "pages/home-creative-agency",
-    "_name": "_5e67ffec"
+    "_name": "_465017ca"
   },
   {
     "name": "home-creative-portfolio",
     "path": "/home-creative-portfolio",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-creative-portfolio.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-creative-portfolio.vue",
     "chunkName": "pages/home-creative-portfolio",
-    "_name": "_104851b1"
+    "_name": "_4a39c513"
   },
   {
     "name": "home-design-studio",
     "path": "/home-design-studio",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-design-studio.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-design-studio.vue",
     "chunkName": "pages/home-design-studio",
-    "_name": "_3cb937e4"
+    "_name": "_31cbdb6c"
   },
   {
     "name": "home-digital-agency",
     "path": "/home-digital-agency",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-digital-agency.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-digital-agency.vue",
     "chunkName": "pages/home-digital-agency",
-    "_name": "_a1cc643e"
+    "_name": "_64004243"
   },
   {
     "name": "home-essential",
     "path": "/home-essential",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-essential.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-essential.vue",
     "chunkName": "pages/home-essential",
-    "_name": "_9d77aad2"
+    "_name": "_4f9b00f5"
   },
   {
     "name": "home-foodie",
     "path": "/home-foodie",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-foodie.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-foodie.vue",
     "chunkName": "pages/home-foodie",
-    "_name": "_9a5d6cfe"
+    "_name": "_0849803a"
   },
   {
     "name": "home-freelancer",
     "path": "/home-freelancer",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-freelancer.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-freelancer.vue",
     "chunkName": "pages/home-freelancer",
-    "_name": "_7e1bb50a"
+    "_name": "_aac0ab28"
   },
   {
     "name": "home-fullscreen-slider-left-vertical-header",
     "path": "/home-fullscreen-slider-left-vertical-header",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-fullscreen-slider-left-vertical-header.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-fullscreen-slider-left-vertical-header.vue",
     "chunkName": "pages/home-fullscreen-slider-left-vertical-header",
-    "_name": "_5afc7c42"
+    "_name": "_32c9b041"
   },
   {
     "name": "home-indie-musician",
     "path": "/home-indie-musician",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-indie-musician.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-indie-musician.vue",
     "chunkName": "pages/home-indie-musician",
-    "_name": "_27635a6a"
+    "_name": "_476c6268"
   },
   {
     "name": "home-landing",
     "path": "/home-landing",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-landing.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-landing.vue",
     "chunkName": "pages/home-landing",
-    "_name": "_46c99d20"
+    "_name": "_1efe72fe"
   },
   {
     "name": "home-masonry-gallery",
     "path": "/home-masonry-gallery",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-masonry-gallery.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-masonry-gallery.vue",
     "chunkName": "pages/home-masonry-gallery",
-    "_name": "_7e6fd75a"
+    "_name": "_ae9fa79e"
   },
   {
     "name": "home-minimal-agency",
     "path": "/home-minimal-agency",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-minimal-agency.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-minimal-agency.vue",
     "chunkName": "pages/home-minimal-agency",
-    "_name": "_d3b16290"
+    "_name": "_4b0dc31a"
   },
   {
     "name": "home-minimal-metro-grid",
     "path": "/home-minimal-metro-grid",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-minimal-metro-grid.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-minimal-metro-grid.vue",
     "chunkName": "pages/home-minimal-metro-grid",
-    "_name": "_aef61ba6"
+    "_name": "_3b1334e2"
   },
   {
     "name": "home-minimal-portfolio",
     "path": "/home-minimal-portfolio",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-minimal-portfolio.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-minimal-portfolio.vue",
     "chunkName": "pages/home-minimal-portfolio",
-    "_name": "_6ffaff65"
+    "_name": "_0386d07a"
   },
   {
     "name": "home-onepage",
     "path": "/home-onepage",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-onepage.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-onepage.vue",
     "chunkName": "pages/home-onepage",
-    "_name": "_6218b1fe"
+    "_name": "_3a4d87dc"
   },
   {
     "name": "home-photo-slider-gallery",
     "path": "/home-photo-slider-gallery",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-photo-slider-gallery.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-photo-slider-gallery.vue",
     "chunkName": "pages/home-photo-slider-gallery",
-    "_name": "_2cc8c5b0"
+    "_name": "_6cfdc00a"
   },
   {
     "name": "home-portfolio-slide",
     "path": "/home-portfolio-slide",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-portfolio-slide.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-portfolio-slide.vue",
     "chunkName": "pages/home-portfolio-slide",
-    "_name": "_0e2cb075"
+    "_name": "_13d66f5a"
   },
   {
     "name": "home-presentation",
     "path": "/home-presentation",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-presentation.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-presentation.vue",
     "chunkName": "pages/home-presentation",
-    "_name": "_5776613e"
+    "_name": "_20be177a"
   },
   {
     "name": "home-product-landing",
     "path": "/home-product-landing",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-product-landing.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-product-landing.vue",
     "chunkName": "pages/home-product-landing",
-    "_name": "_71bc0c42"
+    "_name": "_59a42420"
   },
   {
     "name": "home-restaurant",
     "path": "/home-restaurant",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-restaurant.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-restaurant.vue",
     "chunkName": "pages/home-restaurant",
-    "_name": "_785831c4"
+    "_name": "_b647b1b4"
   },
   {
     "name": "home-service",
     "path": "/home-service",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-service.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-service.vue",
     "chunkName": "pages/home-service",
-    "_name": "_9394aa84"
+    "_name": "_e32afec8"
   },
   {
     "name": "home-start-up",
     "path": "/home-start-up",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-start-up.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-start-up.vue",
     "chunkName": "pages/home-start-up",
-    "_name": "_a6418ca6"
+    "_name": "_4975c0e2"
   },
   {
     "name": "home-type-hover",
     "path": "/home-type-hover",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-type-hover.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-type-hover.vue",
     "chunkName": "pages/home-type-hover",
-    "_name": "_11906d20"
+    "_name": "_23bbbed2"
   },
   {
     "name": "home-vertical-menu",
     "path": "/home-vertical-menu",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\home-vertical-menu.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\home-vertical-menu.vue",
     "chunkName": "pages/home-vertical-menu",
-    "_name": "_3e5387c2"
+    "_name": "_30feb37d"
   },
   {
     "name": "pricing-plans",
     "path": "/pricing-plans",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\pricing-plans.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\pricing-plans.vue",
     "chunkName": "pages/pricing-plans",
-    "_name": "_ee4c3a88"
+    "_name": "_91806ec4"
   },
   {
     "name": "pricing-plans-02",
     "path": "/pricing-plans-02",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\pricing-plans-02.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\pricing-plans-02.vue",
     "chunkName": "pages/pricing-plans-02",
-    "_name": "_5911013a"
+    "_name": "_37723641"
   },
   {
     "name": "services-classic",
     "path": "/services-classic",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\services-classic.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\services-classic.vue",
     "chunkName": "pages/services-classic",
-    "_name": "_292db39a"
+    "_name": "_e5af2b10"
   },
   {
     "name": "services-list",
     "path": "/services-list",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\services-list.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\services-list.vue",
     "chunkName": "pages/services-list",
-    "_name": "_222478c6"
+    "_name": "_508a5ea8"
   },
   {
     "name": "services-modern",
     "path": "/services-modern",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\services-modern.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\services-modern.vue",
     "chunkName": "pages/services-modern",
-    "_name": "_46d1b272"
+    "_name": "_091b1c29"
   },
   {
     "name": "team-carousel-01",
     "path": "/team-carousel-01",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\team-carousel-01.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\team-carousel-01.vue",
     "chunkName": "pages/team-carousel-01",
-    "_name": "_cc5f5bd6"
+    "_name": "_0469ee1a"
   },
   {
     "name": "team-carousel-02",
     "path": "/team-carousel-02",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\team-carousel-02.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\team-carousel-02.vue",
     "chunkName": "pages/team-carousel-02",
-    "_name": "_cc432cd4"
+    "_name": "_044dbf18"
   },
   {
     "name": "team-grid",
     "path": "/team-grid",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\team-grid.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\team-grid.vue",
     "chunkName": "pages/team-grid",
-    "_name": "_afcef662"
+    "_name": "_a2dea89e"
   },
   {
     "name": "blog-blog-creative",
     "path": "/blog/blog-creative",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-creative.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-creative.vue",
     "chunkName": "pages/blog/blog-creative",
-    "_name": "_ae0a201e"
+    "_name": "_5de16453"
   },
   {
     "name": "blog-blog-details",
     "path": "/blog/blog-details",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-details.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-details.vue",
     "chunkName": "pages/blog/blog-details",
-    "_name": "_5f872970"
+    "_name": "_a0a0be64"
   },
   {
     "name": "blog-blog-details-modern-layout",
     "path": "/blog/blog-details-modern-layout",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-details-modern-layout.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-details-modern-layout.vue",
     "chunkName": "pages/blog/blog-details-modern-layout",
-    "_name": "_3f268c7b"
+    "_name": "_2643c759"
   },
   {
     "name": "blog-blog-grid-classic",
     "path": "/blog/blog-grid-classic",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-classic.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-classic.vue",
     "chunkName": "pages/blog/blog-grid-classic",
-    "_name": "_7b64ce4d"
+    "_name": "_95537ca2"
   },
   {
     "name": "blog-blog-grid-classic-sidebar",
     "path": "/blog/blog-grid-classic-sidebar",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-classic-sidebar.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-classic-sidebar.vue",
     "chunkName": "pages/blog/blog-grid-classic-sidebar",
-    "_name": "_c9d94f48"
+    "_name": "_57d76c84"
   },
   {
     "name": "blog-blog-grid-mesonry",
     "path": "/blog/blog-grid-mesonry",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-mesonry.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-mesonry.vue",
     "chunkName": "pages/blog/blog-grid-mesonry",
-    "_name": "_73af46fc"
+    "_name": "_a4be8b44"
   },
   {
     "name": "blog-blog-grid-minimal",
     "path": "/blog/blog-grid-minimal",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-minimal.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-minimal.vue",
     "chunkName": "pages/blog/blog-grid-minimal",
-    "_name": "_c4cff848"
+    "_name": "_50ed1184"
   },
   {
     "name": "blog-blog-grid-minimal-outline",
     "path": "/blog/blog-grid-minimal-outline",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-minimal-outline.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-minimal-outline.vue",
     "chunkName": "pages/blog/blog-grid-minimal-outline",
-    "_name": "_cae6ae5e"
+    "_name": "_58e4cb9a"
   },
   {
     "name": "blog-blog-grid-modern",
     "path": "/blog/blog-grid-modern",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-modern.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-modern.vue",
     "chunkName": "pages/blog/blog-grid-modern",
-    "_name": "_088869b4"
+    "_name": "_d26bfbdc"
   },
   {
     "name": "blog-blog-grid-simple",
     "path": "/blog/blog-grid-simple",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-simple.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-simple.vue",
     "chunkName": "pages/blog/blog-grid-simple",
-    "_name": "_2ab9aec7"
+    "_name": "_8e0971b6"
   },
   {
     "name": "blog-blog-grid-standard",
     "path": "/blog/blog-grid-standard",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-grid-standard.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-grid-standard.vue",
     "chunkName": "pages/blog/blog-grid-standard",
-    "_name": "_e5a799dc"
+    "_name": "_dd2da820"
   },
   {
     "name": "blog-blog-standard-list",
     "path": "/blog/blog-standard-list",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\blog-standard-list.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\blog-standard-list.vue",
     "chunkName": "pages/blog/blog-standard-list",
-    "_name": "_737c0b48"
+    "_name": "_6b02198c"
   },
   {
     "name": "element-accordion",
     "path": "/element/accordion",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\accordion.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\accordion.vue",
     "chunkName": "pages/element/accordion",
-    "_name": "_4981fafa"
+    "_name": "_2b6779e1"
   },
   {
     "name": "element-brand-logo",
     "path": "/element/brand-logo",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\brand-logo.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\brand-logo.vue",
     "chunkName": "pages/element/brand-logo",
-    "_name": "_875d5ff4"
+    "_name": "_7137c468"
   },
   {
     "name": "element-call-to-action-banner",
     "path": "/element/call-to-action-banner",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\call-to-action-banner.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\call-to-action-banner.vue",
     "chunkName": "pages/element/call-to-action-banner",
-    "_name": "_3836171b"
+    "_name": "_08807179"
   },
   {
     "name": "element-carousel-slider",
     "path": "/element/carousel-slider",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\carousel-slider.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\carousel-slider.vue",
     "chunkName": "pages/element/carousel-slider",
-    "_name": "_312ae9e9"
+    "_name": "_3567e2c7"
   },
   {
     "name": "element-contact-subscribe",
     "path": "/element/contact-subscribe",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\contact-subscribe.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\contact-subscribe.vue",
     "chunkName": "pages/element/contact-subscribe",
-    "_name": "_53ead398"
+    "_name": "_3ccd0cf6"
   },
   {
     "name": "element-dividers",
     "path": "/element/dividers",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\dividers.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\dividers.vue",
     "chunkName": "pages/element/dividers",
-    "_name": "_3440e70f"
+    "_name": "_4f9d0bf1"
   },
   {
     "name": "element-flexible-image-slider",
     "path": "/element/flexible-image-slider",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\flexible-image-slider.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\flexible-image-slider.vue",
     "chunkName": "pages/element/flexible-image-slider",
-    "_name": "_4a367290"
+    "_name": "_1a80ccee"
   },
   {
     "name": "element-gradation",
     "path": "/element/gradation",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\gradation.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\gradation.vue",
     "chunkName": "pages/element/gradation",
-    "_name": "_3b5ff1bc"
+    "_name": "_32787e80"
   },
   {
     "name": "element-icon-boxes",
     "path": "/element/icon-boxes",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\icon-boxes.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\icon-boxes.vue",
     "chunkName": "pages/element/icon-boxes",
-    "_name": "_bb4d198c"
+    "_name": "_573fe79c"
   },
   {
     "name": "element-instagram",
     "path": "/element/instagram",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\instagram.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\instagram.vue",
     "chunkName": "pages/element/instagram",
-    "_name": "_4a1c0026"
+    "_name": "_2b1a774b"
   },
   {
     "name": "element-lists",
     "path": "/element/lists",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\lists.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\lists.vue",
     "chunkName": "pages/element/lists",
-    "_name": "_bbb70860"
+    "_name": "_407b522e"
   },
   {
     "name": "element-message-box",
     "path": "/element/message-box",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\message-box.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\message-box.vue",
     "chunkName": "pages/element/message-box",
-    "_name": "_45a4de00"
+    "_name": "_75d4ae44"
   },
   {
     "name": "element-pricing-box",
     "path": "/element/pricing-box",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\pricing-box.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\pricing-box.vue",
     "chunkName": "pages/element/pricing-box",
-    "_name": "_147b01bf"
+    "_name": "_0739ccc6"
   },
   {
     "name": "element-tab",
     "path": "/element/tab",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\tab.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\tab.vue",
     "chunkName": "pages/element/tab",
-    "_name": "_775a8490"
+    "_name": "_4f8f5a6e"
   },
   {
     "name": "element-team",
     "path": "/element/team",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\team.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\team.vue",
     "chunkName": "pages/element/team",
-    "_name": "_493135f2"
+    "_name": "_77971bd4"
   },
   {
     "name": "element-testimonial",
     "path": "/element/testimonial",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\element\\\\testimonial.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\element\\\\testimonial.vue",
     "chunkName": "pages/element/testimonial",
-    "_name": "_3f54c19a"
+    "_name": "_273cd978"
   },
   {
     "name": "portfolio-portfolio-ajax-filter",
     "path": "/portfolio/portfolio-ajax-filter",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-ajax-filter.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-ajax-filter.vue",
     "chunkName": "pages/portfolio/portfolio-ajax-filter",
-    "_name": "_f5b4a422"
+    "_name": "_6c42e8cd"
   },
   {
     "name": "portfolio-portfolio-details",
     "path": "/portfolio/portfolio-details",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-details.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-details.vue",
     "chunkName": "pages/portfolio/portfolio-details",
-    "_name": "_294412ec"
+    "_name": "_627d6cca"
   },
   {
     "name": "portfolio-portfolio-details-image-with-caption",
     "path": "/portfolio/portfolio-details-image-with-caption",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-details-image-with-caption.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-details-image-with-caption.vue",
     "chunkName": "pages/portfolio/portfolio-details-image-with-caption",
-    "_name": "_432878c2"
+    "_name": "_472e6624"
   },
   {
     "name": "portfolio-portfolio-details-left-wide",
     "path": "/portfolio/portfolio-details-left-wide",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-details-left-wide.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-details-left-wide.vue",
     "chunkName": "pages/portfolio/portfolio-details-left-wide",
-    "_name": "_102c3338"
+    "_name": "_769d4f96"
   },
   {
     "name": "portfolio-portfolio-details-right",
     "path": "/portfolio/portfolio-details-right",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-details-right.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-details-right.vue",
     "chunkName": "pages/portfolio/portfolio-details-right",
-    "_name": "_1881ba7b"
+    "_name": "_a588944e"
   },
   {
     "name": "portfolio-portfolio-details-right-wide",
     "path": "/portfolio/portfolio-details-right-wide",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-details-right-wide.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-details-right-wide.vue",
     "chunkName": "pages/portfolio/portfolio-details-right-wide",
-    "_name": "_b7ac9dd6"
+    "_name": "_0bdc2077"
   },
   {
     "name": "portfolio-portfolio-grid-boxed",
     "path": "/portfolio/portfolio-grid-boxed",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-grid-boxed.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-grid-boxed.vue",
     "chunkName": "pages/portfolio/portfolio-grid-boxed",
-    "_name": "_5381e1ae"
+    "_name": "_0f40008b"
   },
   {
     "name": "portfolio-portfolio-grid-filter",
     "path": "/portfolio/portfolio-grid-filter",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-grid-filter.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-grid-filter.vue",
     "chunkName": "pages/portfolio/portfolio-grid-filter",
-    "_name": "_ed207dee"
+    "_name": "_708cfbe7"
   },
   {
     "name": "portfolio-portfolio-grid-metro-01",
     "path": "/portfolio/portfolio-grid-metro-01",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-grid-metro-01.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-grid-metro-01.vue",
     "chunkName": "pages/portfolio/portfolio-grid-metro-01",
-    "_name": "_14ca3406"
+    "_name": "_acf7a138"
   },
   {
     "name": "portfolio-portfolio-grid-metro-02",
     "path": "/portfolio/portfolio-grid-metro-02",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-grid-metro-02.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-grid-metro-02.vue",
     "chunkName": "pages/portfolio/portfolio-grid-metro-02",
-    "_name": "_14d84b87"
+    "_name": "_acdb7236"
   },
   {
     "name": "portfolio-portfolio-grid-wide",
     "path": "/portfolio/portfolio-grid-wide",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-grid-wide.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-grid-wide.vue",
     "chunkName": "pages/portfolio/portfolio-grid-wide",
-    "_name": "_e0462db8"
+    "_name": "_60274382"
   },
   {
     "name": "portfolio-portfolio-with-caption",
     "path": "/portfolio/portfolio-with-caption",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\portfolio-with-caption.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\portfolio-with-caption.vue",
     "chunkName": "pages/portfolio/portfolio-with-caption",
-    "_name": "_750a21b6"
+    "_name": "_7bf5dff2"
   },
   {
     "name": "blog-category-slug",
     "path": "/blog/category/:slug?",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\category\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\category\\\\_slug.vue",
     "chunkName": "pages/blog/category/_slug",
-    "_name": "_2664d303"
+    "_name": "_3b7fb6e5"
   },
   {
     "name": "blog-tag-slug",
     "path": "/blog/tag/:slug?",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\tag\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\tag\\\\_slug.vue",
     "chunkName": "pages/blog/tag/_slug",
-    "_name": "_63d9956e"
+    "_name": "_320dec27"
   },
   {
     "name": "blog-slug",
     "path": "/blog/:slug?",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\blog\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\blog\\\\_slug.vue",
     "chunkName": "pages/blog/_slug",
-    "_name": "_7ebdbdfe"
+    "_name": "_09ab1763"
   },
   {
     "name": "portfolio-slug",
     "path": "/portfolio/:slug?",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\portfolio\\\\_slug.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\portfolio\\\\_slug.vue",
     "chunkName": "pages/portfolio/_slug",
-    "_name": "_65f49fb9"
+    "_name": "_6c2152d2"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\Keep\\\\Code\\\\BlanCanvas\\\\blancanvas frontend\\\\frontend\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\akira\\\\OneDrive\\\\Desktop\\\\Stuff\\\\To store\\\\Code\\\\BLANCanvas\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_2573692a"
+    "_name": "_6919334d"
   }
 ]
